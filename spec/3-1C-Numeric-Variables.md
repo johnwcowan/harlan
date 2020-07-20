@@ -1,0 +1,1 @@
+**3-1C: Numeric Variables.  The range of each numeric variable must be specified in programs and shall be determined by the time of its allocation. Such specifications shall be interpreted as the minimum range to be implemented and as the maximum range needed by the application. Explicit conversion operations shall not be required between numeric ranges.**

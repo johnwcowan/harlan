@@ -1,0 +1,1 @@
+**3-3H: Tag Fields.  Each variant must have a nonassignable tag field (i.e., a component that can be used to discriminate among the variants during execution). It shall not be possible to alter a tag field without replacing the entire variant.**

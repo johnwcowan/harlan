@@ -1,0 +1,1 @@
+**3-3E: Operations on Subarrays.  There shall be built-in operations for value access, assignment, and catenation of contiguous sections of one-dimensional arrays of the same component type. The results of such access and catenation operations may be used as actual input parameter.**

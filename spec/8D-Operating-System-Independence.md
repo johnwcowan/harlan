@@ -1,0 +1,1 @@
+**8D: Operating System Independence.  The language shall not require the presence of an operating system. [Note that on many machines it will be necessary to provide run-time procedures to implement some features of the language.]**

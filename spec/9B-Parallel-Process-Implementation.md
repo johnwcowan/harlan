@@ -1,0 +1,1 @@
+**9B: Parallel Process Implementation.  The parallel processing facility shall be designed to minimize execution time and space. Processes shall have consistent semantics whether implemented on multicomputers, multiprocessors, or with interleaved execution on a single processor.**

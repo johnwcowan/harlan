@@ -1,0 +1,1 @@
+**9H: Passing Data.  It shall be possible to pass data between processes that do not share variables. It shall be possible to delay such data transfers until both the sending and receiving processes have requested the transfer.**

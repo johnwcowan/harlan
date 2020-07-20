@@ -1,0 +1,1 @@
+**11E: Interface to Other Languages.  There shall be a machine independent interface to other programming languages including assembly languages. Any program element that is referenced in both the source language program and foreign code must be identified in the interface. The source language of the foreign code must also be identified.**

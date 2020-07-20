@@ -1,0 +1,1 @@
+**3-1E: Approximate Arithmetic Implementation.  Approximate arithmetic will be implemented using the actual precisions, radix, and exponent range available in the object machine. There shall be built-in operations to access the actual precision, radix, and exponent range of the implementation.**

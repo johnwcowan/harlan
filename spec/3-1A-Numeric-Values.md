@@ -1,0 +1,1 @@
+**3-1A: Numeric Values.  The language shall provide distinct numeric types for exact and for approximate computation. Numeric operations and assignment that would cause the most significant digits of numeric values to be truncated (e.g., when overflow occurs) shall constitute an exception situation.**

@@ -1,0 +1,1 @@
+**10F: Assertions.  It shall be possible to include assertions in programs. If an assertion is false when encountered during execution, it shall raise an exception. It shall also be possible to include assertions, such as the expected frequency for selection of a conditional path, that cannot be verified. [Note that assertions can be used to aid optimization and maintenance.]**

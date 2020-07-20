@@ -1,0 +1,1 @@
+**2C: Syntactic Extensions.  The user shall not be able to modify the source language syntax. In particular the user shall not be able to introduce new precedence rules or to define new syntactic forms.**

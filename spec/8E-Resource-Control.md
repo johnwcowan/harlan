@@ -1,0 +1,1 @@
+**8E: Resource Control.  There shall be a few low level operations to interrogate and control physical resources (e.g., memory or processors) that are managed (e.g., allocated or scheduled) by built-in features of the language.**

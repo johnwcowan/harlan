@@ -1,0 +1,1 @@
+**8B: User Level Input-Output.  The language shall specify (i.e., give calling format and general semantics) a recommended set of user level input-output operations. These shall include operations to create, delete, open, close, read, write, position, and interrogate both sequential and random access files and to alter the association between logical files and physical devices.**

@@ -1,0 +1,1 @@
+**4F: Operator Precedence Levels.  The precedence levels (i.e., binding strengths) of all (prefix and infix) operators shall be specified in the language definition, shall not be alterable by the user, shall be few in number, and shall not depend on the types of the operands.**

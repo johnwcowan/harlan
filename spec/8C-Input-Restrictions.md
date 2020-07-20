@@ -1,0 +1,1 @@
+**8C: Input Restrictions.  User level input shall be restricted to data whose record representations are known to the translator (i.e., data that is created and written entirely within the program or data whose representation is explicitly specified in the program).**

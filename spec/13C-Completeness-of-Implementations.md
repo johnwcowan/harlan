@@ -1,0 +1,1 @@
+**13C: Completeness of Implementations.  Translators shall implement the standard definition. Every translator shall be able to process any syntactically correct program. Every feature that is available to the user shall be defined in the standard, in an accessible library, or in the source program.**

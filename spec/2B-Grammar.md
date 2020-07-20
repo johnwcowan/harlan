@@ -1,0 +1,1 @@
+**2B: Grammar.  The language should have a simple, uniform, and easily parsed grammar and lexical structure. The language shall have free form syntax and should use familiar notations where such use does not conflict with other goals.**

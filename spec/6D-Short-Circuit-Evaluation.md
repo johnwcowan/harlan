@@ -1,0 +1,1 @@
+**6D: Short Circuit Evaluation.  There shall be infix control operations for short circuit conjunction and disjunction of the controlling Boolean expression in conditional and iterative control structures.**

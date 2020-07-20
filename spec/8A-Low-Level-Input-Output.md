@@ -1,0 +1,1 @@
+**8A: Low Level Input-Output.  There shall be a few low level input-output operations that send and receive control information to and from physical channels and devices. The low level operations shall be chosen to insure that all user level input-output operations can be defined within the language.**

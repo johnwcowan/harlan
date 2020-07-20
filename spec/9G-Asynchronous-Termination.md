@@ -1,0 +1,1 @@
+**9G: Asynchronous Termination.  It shall be possible to terminate another process. The terminated process may designate the sequence of statements it will execute in response to the induced termination.**

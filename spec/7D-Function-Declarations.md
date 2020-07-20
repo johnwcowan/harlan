@@ -1,0 +1,1 @@
+**7D: Function Declarations.  The type of the result for each function must be specified in its declaration and shall be determinable during translation. The results of functions may be of any type. If a result is of a nonindirect array or record type then the number of its components must be determinable by the time of function call.**

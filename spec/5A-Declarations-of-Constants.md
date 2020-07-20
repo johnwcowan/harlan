@@ -1,0 +1,1 @@
+**5A: Declarations of Constants.  It shall be possible to declare constants of any type. Such constants shall include both those whose values-are determined during translation and those whose value cannot be determined until allocation. Programs may not assign to constants.**

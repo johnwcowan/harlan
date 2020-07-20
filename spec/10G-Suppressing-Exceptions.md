@@ -1,0 +1,1 @@
+**10G: Suppressing Exceptions.  It shall be possible during translation to suppress individually the execution time detection of exceptions within a given scope. The language shall not guarantee the integrity of the values produced when a suppressed exception occurs. [Note that suppression of an exception is not an assertion that the corresponding error will not occur.]**

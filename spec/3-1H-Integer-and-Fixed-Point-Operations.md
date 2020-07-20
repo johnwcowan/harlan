@@ -1,0 +1,1 @@
+**3-1H: Integer and Fixed Point Operations.  There shall be integer and fixed point operations for modulo and integer division and for conversion between values with different scales. All built-in and predefined operations for exact arithmetic shall apply between arbitrary scales. Additional operations between arbitrary scales shall be definable within programs.**

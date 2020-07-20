@@ -1,0 +1,1 @@
+**3-3B: Component Specifications.  For elements of composite types, the type of each component (i.e., field) must be explicitly specified in programs and determinable during translation. Components may be of any type (including array and record types). Range, precision, and scale specifications shall be required for each component of appropriate numeric type.**

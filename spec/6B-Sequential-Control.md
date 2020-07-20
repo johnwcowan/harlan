@@ -1,0 +1,1 @@
+**6B: Sequential Control.  There shall be a control mechanism for sequencing statements. The language shall not impose arbitrary restrictions on programming style, such as the choice between statement terminators and statement separators, unless the restriction makes programming errors less likely.**

@@ -1,0 +1,1 @@
+**3-2A: Enumeration Type Definitions.  There shall be types that are definable in programs by enumeration of their elements. The elements of an enumeration type may be identifiers or character literals. Each variable of an enumeration type may be restricted to a contiguous subsequence of the enumeration.**

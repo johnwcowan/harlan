@@ -1,0 +1,1 @@
+**9I: Signalling.  It shall be possible to set a signal (without waiting), and to wait for a signal (without delay, if it is already set). Setting a signal, that is not already set, shall cause exactly one waiting path to continue.**

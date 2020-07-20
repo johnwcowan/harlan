@@ -1,0 +1,1 @@
+**4E: Translation Time Expressions.  Expressions that can be evaluated during translation shall be permitted wherever literals of the type are permitted. Translation time expressions that include only literals and the use of translation time facilities (see 11C) shall be evaluated during translation.**

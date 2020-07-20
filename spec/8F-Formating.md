@@ -1,0 +1,1 @@
+**8F: Formating.  There shall be predefined operations to convert between the symbolic and internal representation of all types that have literal forms in the language (e.g., strings of digits to integers, or an enumeration element to its symbolic form). These conversion operations shall have the same semantics as those specified for literals in programs.**

@@ -1,0 +1,1 @@
+**3-1F: Integer and Fixed Point Numbers.  Integer and fixed point numbers shall be treated as exact numeric values. There shall be no implicit truncation or rounding in integer and fixed point computations.**

@@ -1,0 +1,1 @@
+**3-1G: Fixed Point Scale.  The scale or step size (i.e., the minimal representable difference between values) of each fixed point variable must be specified in programs and be determinable during translation. Scales shall not be restricted to powers of two.**

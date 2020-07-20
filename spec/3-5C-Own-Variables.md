@@ -1,0 +1,1 @@
+**3-5C: Own Variables.  Variables declared within an encapsulation, but not within a function, procedure, or process of the encapsulation, shall remain allocated and retain their values throughout the scope in which the encapsulation is instantiated.**

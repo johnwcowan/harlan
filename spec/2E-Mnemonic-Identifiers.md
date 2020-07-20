@@ -1,0 +1,1 @@
+**2E: Mnemonic Identifiers.  Mnemonically significant identifiers shall be allowed. There shall be a break character for use within identifiers. The language and its translators shall not permit identifiers or reserved words to be abbreviated. (Note that this does not preclude reserved words that are abbreviations of natural language words.)**

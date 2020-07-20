@@ -1,0 +1,1 @@
+**9C: Shared Variables and Mutual Exclusion.  It shall be.possible to mark variables that are shared among parallel processes. An unmarked variable that is assigned on one path and used on another shall cause a warning. It shall be possible efficiently to perform mutual exclusion in programs. The language shall not require any use of mutual exclusion.**

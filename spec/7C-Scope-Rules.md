@@ -1,0 +1,1 @@
+**7C: Scope Rules.  A reference to an identifier that is not declared in the most local scope shall refer to a program element that is lexically global, rather than to one that is global through the dynamic calling structure.**

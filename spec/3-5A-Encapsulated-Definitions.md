@@ -1,0 +1,1 @@
+**3-5A: Encapsulated Definitions.  It shall be possible to encapsulate definitions. An encapsulation may contain declarations of anything (including the data elements and operations comprising a type) that is definable in programs. The language shall permit multiple explicit instantiations of an encapsulation.**

@@ -1,0 +1,1 @@
+**3-3F: Nonassignable Record Components.  It shall be possible to declare constants and (unary) functions that may be thought of as record components and may be referenced using the same notation as for accessing record components. Assignment shall not be permitted to such components.**

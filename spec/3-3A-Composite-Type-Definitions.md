@@ -1,0 +1,1 @@
+**3-3A: Composite Type Definitions.  It shall be possible to define types that are Cartesian products of other types. Composite types shall include arrays (i.e., composite data with indexable components of homogeneous types) and records (i.e., composite data with labeled components of heterogeneous type).**

@@ -1,0 +1,1 @@
+**3-2B: Operations on Enumeration Types.  Equality, inequality, and the ordering operations shall be automatically defined between elements of each enumeration type. Sufficient additional operations shall be automatically defined so that the successor, predecessor, the position of any element, and the first and last element of the type may be computed.**

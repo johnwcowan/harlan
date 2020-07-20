@@ -1,0 +1,1 @@
+**5D: Restrictions on Values.  Procedures, functions, types, labels, exception situations, and statements shall not be assignable to variables, be computable as values of expressions, or be usable as nongeneric parameters to procedures or functions.**
