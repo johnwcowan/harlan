@@ -2,4 +2,4 @@
 
 The 55-character subset is considered obsolete in 2020.  Only the ASCII repertoire is needed to write code.
 
-Literal strings can contain any character except those of the Cc general character class.
+Literal strings and constants can contain any character except those of the Cc general character class.  There are escape sequences that represent all characters in literal strings.
