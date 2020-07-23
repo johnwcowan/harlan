@@ -5,7 +5,14 @@ to deduce from the operator whether the operation is:
 
  * commutative or not
  * left associative, right associative, or not associative
- * unary or binary (`-` is a special case, as it is both)
+ 
+To add a method to an operator, make sure that its name
+is prefixed by the reserved word `operator`
+(thus `operator +`, not just `+`),
+and that its arguments are named `left:` and `right:`,
+or just `right:` if it is unary.
  
 Here is a list of operators from highest to lowest priority:
+
+
 
