@@ -8,3 +8,5 @@ provide a wider type for the variable
 than the expression that initializes it.
 
 All other types are inferred.
+It is a compile-time error for an optional explicit type
+to contradict an inferred type.
