@@ -7,6 +7,6 @@ mutable components of a record in order to
 provide a wider type for the variable
 than the expression that initializes it.
 
-All other types are inferred.
+All other types can be inferred.
 It is a compile-time error for an optional explicit type
 to contradict an inferred type.
