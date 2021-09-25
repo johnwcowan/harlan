@@ -1,1 +1,6 @@
 **6C: Conditional Control.  There shall be conditional control structures that permit selection among alternative control paths. The selected path may depend on the value of a Boolean expression, on a computed choice among labeled alternatives, or on the true condition in a set of conditions. The language shall define the control action for all values of the discriminating condition that are not specified by the program. The user may supply a single control path to be used when no other path is selected. Only the selected branch shall be compiled when the discriminating condition is a translation time expression.**
+
+So we have `if...then...elif...then...else...fi`
+and `case...when...when...else` statements and expressions.
+There is also a `typecase` statement for discriminating
+among subtypes.

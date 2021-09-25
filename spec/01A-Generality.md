@@ -1,1 +1,3 @@
 **1A: Generality.  The language shall provide generality only to the extent necessary to satisfy the needs of embedded computer applications. Such applications involve real time control, self diagnostics, input-output to nonstandard peripheral devices, parallel processing, numeric computation, and file processing.**
+
+Harlan provides all these things, but is not specially focused on embedded applications.
